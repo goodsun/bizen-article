@@ -1,4 +1,4 @@
-# XX猫かわいい
+# 猫かわいい
 ## 猫。
 ![neko](https://www.petio.com/wp-content/uploads/2022/12/img01.jpg)
 ### 猫はかわいい。
