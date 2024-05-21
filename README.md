@@ -1,9 +1,13 @@
 BIZEN DAO ARTICLE
 
-<img src="./md/ja/0x59d2e0e4dcf3dc47e83364d4e9a91b310e713248/img/80scat.jpg" title="" alt="" width="265"><img title="" src="./img/honoha.jpg" alt="" width="292">
+<img title="" src="./img/honoha.jpg" alt="" width="292">
+備前商工会議所イメージキャラクター『ほのはちゃん』
 
-BizenDao の記事はgithub管理を行っています。
-BizenDaoの記事は誰でも投稿可能となっています。
+## BizenDAOのWEBページ
+
+BizenDaoのWeBページに公開される記事はすべてgithubにて管理を行っています。
+BizenDaoの記事はコラボレータが投稿可能となっています。
+コラボレータになりたい方はBizenDaoにてコラボレーション参加希望を提出してください。
 
 ## 記事投稿ルール
 
