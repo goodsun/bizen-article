@@ -1,3 +1,0 @@
-# Privacy policy
-
-### under construction
