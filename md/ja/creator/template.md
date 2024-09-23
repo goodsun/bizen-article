@@ -1,4 +1,4 @@
-# ほのはちゃん
+#  陶芸家プロフィールテンプレート
 
 ![イメージ](https://pbs.twimg.com/media/FlGox_aaYAANYg0?format=jpg&name=medium)
 
